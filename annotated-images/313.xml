@@ -1,0 +1,38 @@
+<annotation>
+	<folder>drive-download-20220418T050845Z-001</folder>
+	<filename>313.jpg</filename>
+	<path>C:\Users\Kashif Khan\Desktop\drive-download-20220418T050845Z-001\313.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>7</ymin>
+			<xmax>311</xmax>
+			<ymax>28</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>34</ymin>
+			<xmax>330</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>drive-download-20220418T050845Z-001</folder>
+	<filename>294.jpg</filename>
+	<path>C:\Users\Kashif Khan\Desktop\drive-download-20220418T050845Z-001\294.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>103</ymin>
+			<xmax>138</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>86</ymin>
+			<xmax>341</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>

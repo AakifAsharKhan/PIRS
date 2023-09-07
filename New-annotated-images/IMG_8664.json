@@ -1,0 +1,43 @@
+[
+    {
+        "image": "IMG_8664.jpg",
+        "annotations": [
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 1862.2608695652175,
+                    "y": 1974.913043478261,
+                    "width": 400,
+                    "height": 722
+                }
+            },
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 1488.2608695652175,
+                    "y": 1752.913043478261,
+                    "width": 252,
+                    "height": 478
+                }
+            },
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 1057.2608695652175,
+                    "y": 2742.413043478261,
+                    "width": 878,
+                    "height": 1431
+                }
+            },
+            {
+                "label": "person",
+                "coordinates": {
+                    "x": 1794.2608695652175,
+                    "y": 2818.413043478261,
+                    "width": 622,
+                    "height": 1235
+                }
+            }
+        ]
+    }
+]
